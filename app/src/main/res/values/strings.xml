@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HoR</string>
+
+    <string-array name="Locality">
+        <item>Mumbai (Andheri)</item>
+        <item>Mumbai (Vashi)</item>
+        <item>Mumbai (Vasai)</item>
+        <item>Goa (Ponda)</item>
+        <item>Pune (Sadashiv Pethe)</item>
+    </string-array>
+    <string-array name="Requirements">
+        <item>Bachelors or Family</item>
+        <item>Family</item>
+        <item>Bachelors</item>
+    </string-array>
+    <string-array name="Size">
+        <item>1BHK</item>
+        <item>2BHK</item>
+        <item>3BHK</item>
+        <item>1RK</item>
+    </string-array>
+
+
+</resources>
